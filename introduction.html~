@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang ="en">
+
+ <head>
+   <meta charset="utf-8" />
+   <link rel='stylesheet' type='text/css' href="style.css">
+   <title>Cortez Phenix | Introduction</title>
+   <meta name=viewport content="width=device-width, initial-scale=1">
+ </head>
+
+ <body>
+   <h2><b>Introduction</b></h2>
+   <h4>23rd of September, 2020</h4>
+   <div align="center"><p>Yo! Welcome to my first blog post. I am excited to begin this. There will be little-to-no traffic on this site, but that is OK. Really, the main purpose I have for this site is to have a spot to dump my thoughts, opinions, and experiences, all made accessible to the public. My goal is to write content, then be able to access it anywhere. <i> I am used to talking to myself, so the lack of traffic will not be a problem. :-)</i><br /><br />
+   </p>
+   <iframe src="https://giphy.com/embed/SWp5W4TXYNuxtrGQyb" width="200" height="200" frameBorder="0" class="center" allowFullScreen></iframe>
+   <p>That's all, folks. Let's get to writing.</p>
+   <h4>by Cortez Phenix</h4></div>
+    <p><a href="blog.html">Blog Mainpage</a><br /><a href="index.html">Return to Homepage</a></p>
+ </body>
+
+</html>

@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang ="en">
+
+ <head>
+   <meta charset="utf-8" />
+   <link rel='stylesheet' type='text/css' href="style.css">
+   <title>Linguistics</title>
+   <meta name=viewport content="width=device-width, initial-scale=1">
+ </head>
+
+ <body>
+    <h3>#4 <a href="spanish_intro.html">La Lengua de el Español</a></h3>
+     <p>21-10-2020</p>
+   <p><a href="blog.html">Blog Mainpage</a><br /><a href="index.html">Return to Homepage</a></p>
+ </body>
+
+</html>

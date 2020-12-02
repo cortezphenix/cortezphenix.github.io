@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang ="en">
+
+ <head>
+   <meta charset="utf-8" />
+   <link rel='stylesheet' type='text/css' href="style.css">
+   <title>Books in My Life</title>
+   <meta name=viewport content="width=device-width, initial-scale=1">
+ </head>
+
+ <body>
+   <h2><b>How My Relationship with Books Began</b></h2>
+   <img src="satch&me.jpg" width="150" height="150" alt="da book" class="center" title="da book"/>
+   <h4>25th of September, 2020</h4>
+   <p>In this post, I will be writing briefly about how I began my journey with books and how books have changed my life.<br /><br />Pictured above, there is a book called <i>Satch & Me</i>, written by <a href="https://en.wikipedia.org/wiki/Dan_Gutman">Dan Gutman</a>. It was the first book that I read, outside of the compulsory context of school. My third grade teacher lent it to me, and I read it in one day. Reading that book, I realized the beauty and power of words. Reading books, I transported myself to other worlds. Reading books became a form of <i>escapism</i> for Young Me. After reading that book, I read the rest of the series. I began devouring all the fiction I could, finishing the series and moving on to others, like <i>Percy Jackson</i> and <i>Harry Potter</i>. I also enjoyed reading books about life in Ancient Greece, Ancient Rome, and Medieval Europe.<br /><br />That initial experience with fiction, eventually led to me exploring nonfiction. To cut a long story short, without my teacher introducing me to books, I would have never become the person I am today, with the interests I have. For that, I am really grateful. I am also grateful for the public library system and my mother, who graciously transported Young Me to libraries.</p> 
+   <h4>by Cortez Phenix</h4>
+   <p><a href="blog.html">Blog Mainpage><a href="index.html">Return to Homepage</a></p>
+ </body>
+
+</html>
