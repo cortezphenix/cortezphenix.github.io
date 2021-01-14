@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang ="en">
+
+ <head>
+   <meta charset="utf-8" />
+   <link rel='stylesheet' type='text/css' href="style.css">
+   <title>CS 10B</title>
+   <meta name=viewport content="width=device-width, initial-scale=1">
+ </head>
+
+ <body>
+   <h2><b>starting Out with C++: From Control Structures through Objects</b></h2>
+   <h4>21st of October, 2020</h4>
+   <img src="hola.jpeg" width="150" height="150" alt="hola" class="center" title="hola"/>
+   <p>
+     En este momento, yo voy a escribir sobre el Español en mi vida. Yo voy a hacer muchas problemas con mis palabras y cosas de este naturaleza. Estoy un poco <i>rusty</i>, y hace unos años que yo uso este idioma. Nunca el menos, quiero a practicar mi Español. No voy a correctar las problemas en este página. Quiero a escribir de que yo conozco, sin correctando las problemas que yo hago. Yo sé que no puedo hablar "en el futuro", y yo necesito a mejorar mi gramática, vocabulario, y mi hablando en una <b>manera fluente.</b><br /><br />¡Adios! Yo quiero a hacer unas útiles en este sitio y usar las cuando yo estudio.
+   </p>
+  
+   <h4>by Cortez Phenix</h4></div>
+   <p><a href="blog.html">Blog Mainpage</a><br /><a href="index.html">Return to Homepage</a></p>
+ </body>
+
+</html>
